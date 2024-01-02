@@ -4,6 +4,12 @@ __TiOS__ (Pronounced _Ty OS_ or more like _Thai OS_ but trust me, it's not from 
 
 ## The Goal
 
+_TO BE COMPLETED_
+
 ## TODO List
 
+_TO BE COMPLETED_
+
 ## About this repository
+
+_TO BE COMPLETED_
